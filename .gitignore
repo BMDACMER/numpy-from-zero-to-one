@@ -1,0 +1,9 @@
+﻿*.xml
+*.pdf
+*.zip
+*.css
+*.doc
+*.docx
+*.rar
+
+*.ipynb_checkpoints
